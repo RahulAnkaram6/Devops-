@@ -3,7 +3,7 @@ Q1: b) git log
 Q2: b) S3
 Q3: a) Agentless tool, b) Uses YAML for playbooks
 Q4: b) docker images
-Q5: c) Log in with docker login, d) Push using docker push (any two of these three, but a and d are most direct)
+Q5: c) Log in with docker login, d) Push using docker push
 Q6: b) docker container prune
 Q7: a) Declarative configuration, c) Resource provisioning through code
 Q8: b) Build and test simple jobs with GUI-based configuration
